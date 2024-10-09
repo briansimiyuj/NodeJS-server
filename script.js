@@ -26,3 +26,5 @@ myEmitter.on("creatingServer", (port, host) =>{
     server.listen(port, host, () => console.log('Server is running'))
 
 })
+
+myEmitter.emit("creatingServer", 3000, "localhost")

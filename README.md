@@ -8,3 +8,4 @@ We'll create a server using a custom event emitter.
 5. Create a server
     a. Set up request and response objects
     b. Send a response
+6. Emit the event   
