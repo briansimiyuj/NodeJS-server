@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-server",
+  "version": "1.0.0",
+  "description": "This is a simple project on how to create a server using Node.js \r We'll create a server using a custom event emitter.",
+  "type": "module",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
